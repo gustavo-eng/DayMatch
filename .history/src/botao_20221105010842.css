@@ -1,0 +1,27 @@
+.container {
+    background-color: cadetblue;
+    margin-top: 2px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.main {
+
+    background-color:red;
+    color: blue;
+    cursor:pointer;
+    
+}
+.main:hover {
+    background-color: blueviolet;
+    color:aliceblue;
+    border-radius: 20px;
+}
+
+h2 {
+    color:  white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

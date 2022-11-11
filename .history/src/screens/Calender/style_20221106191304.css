@@ -1,0 +1,7 @@
+.container {
+    background-color: red;
+    color: purple;
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+}

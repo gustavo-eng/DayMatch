@@ -1,0 +1,25 @@
+
+.botao {
+    background-color: rgba(174, 190, 0, 0.793);
+    cursor:pointer;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-radius: 5px;
+    /* padding: 0; */
+    
+}
+.botao:hover {
+    background-color: white;
+    color: rgb(98, 98, 98);
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    display: flex;
+    align-self: center;
+}

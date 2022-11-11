@@ -1,0 +1,20 @@
+.containerCalender {
+    background-color: rgb(170, 170, 170);
+    color: purple;
+    display: flex;
+    flex-direction: column;
+}
+
+.calendario {
+    /* background-color: red;
+    color: blue;
+    height: 100%; */
+    display:flex;
+    width: 100%;
+    background: white;
+    border: 1px solid #a0a096;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 4.125em;
+
+
+}

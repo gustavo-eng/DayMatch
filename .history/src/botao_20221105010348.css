@@ -1,0 +1,19 @@
+.container {
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: row;
+}
+
+.main {
+
+    background-color:red;
+    color: blue;
+    cursor:pointer;
+    
+}
+.main:hover {
+    background-color: blueviolet;
+    color:aliceblue;
+    border-radius: 20px;
+}
+

@@ -1,0 +1,15 @@
+
+.main {
+    display: flex;
+    flex: 1;
+    background-color:red;
+    color: blue;
+    cursor:pointer;
+    
+}
+.main:hover {
+    background-color: blueviolet;
+    color:aliceblue;
+    border-radius: 20px;
+}
+

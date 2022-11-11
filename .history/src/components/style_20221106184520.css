@@ -1,0 +1,18 @@
+
+.botao {
+    background-color:red;
+    color: blue;
+    cursor:pointer;
+}
+.botao:hover {
+    background-color: blueviolet;
+    color:aliceblue;
+    border-radius: 10px;
+}
+
+h2 {
+    color:  white;
+    font-size: small;
+    align-self: center;
+    
+}
