@@ -36,7 +36,7 @@ const SignIn = (props) => {
                                 altura={'30px'}
                             />
                             <Botao largura={'60%'} 
-                                    nome='Register 3 ' 
+                                    nome='Register 2 ' 
                                     margem={'4px'}
                                     altura={'30px'}
                             />
