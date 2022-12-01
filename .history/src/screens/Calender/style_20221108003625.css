@@ -1,0 +1,13 @@
+.containerCalender {
+    background-color: rgb(170, 170, 170);
+    color: purple;
+    display: flex;
+    flex-direction: column;
+}
+
+.calendario {
+    background-color: red;
+    color: blue;
+    height: 900px;
+
+}

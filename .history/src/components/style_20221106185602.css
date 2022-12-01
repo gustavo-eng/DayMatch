@@ -1,0 +1,17 @@
+
+.botao {
+    background-color: background: linear-gradient(80deg, rgba(2,0,36,1) 0%, rgba(167,165,12,1) 22%, rgba(0,212,255,1) 100%);
+    cursor:pointer;
+    border-width: 1px;
+}
+.botao:hover {
+    background-color: blueviolet;
+    color:aliceblue;
+    border-radius: 8px;
+}
+
+h2 {
+    color:  white;
+    font-size: small;
+    align-self: center;
+}

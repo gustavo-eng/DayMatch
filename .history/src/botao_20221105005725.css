@@ -1,0 +1,11 @@
+
+.main {
+    background-color:red;
+    color: blue;
+    cursor:pointer;
+    
+}
+.main:hover {
+    background-color: blueviolet;
+}
+

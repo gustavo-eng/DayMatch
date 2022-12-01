@@ -1,0 +1,23 @@
+.container {
+     display: flex;
+}
+
+.botao {
+
+    background-color:red;
+    color: blue;
+    cursor:pointer;
+    width: 20%;
+    
+}
+.botao:hover {
+    background-color: blueviolet;
+    color:aliceblue;
+    border-radius: 30px;
+}
+
+h2 {
+    color:  white;
+    font-size: small;
+    
+}

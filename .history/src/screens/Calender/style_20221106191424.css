@@ -1,0 +1,6 @@
+.container {
+    background-color: rgb(128, 128, 128);
+    color: purple;
+    display: flex;
+    flex-direction: column;
+}

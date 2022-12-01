@@ -1,0 +1,23 @@
+.container {
+     display: flex;
+}
+
+.botao {
+
+    background-color:red;
+    color: blue;
+    cursor:pointer;
+    width: 50px;
+    
+}
+.botao:hover {
+    background-color: blueviolet;
+    color:aliceblue;
+    border-radius: '80%';
+}
+
+h2 {
+    color:  white;
+    font-size: small;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

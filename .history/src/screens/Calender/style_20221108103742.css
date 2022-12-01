@@ -1,0 +1,37 @@
+.containerCalender {
+    background-color: rgb(255, 254, 254);
+    display: flex;
+    flex-direction: column;
+}
+
+.calendario {
+    /* background-color: red;
+    color: blue;
+    height: 100%; */
+    display:flex;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    border: 1px solid #a0a096;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 5.125em;
+
+}
+.big-calender {
+    display: flex;
+    justify-content: center;
+    color: rgba(65, 70, 3, 0.793);
+    background-color: white;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.textNomeSite {
+    color: rgba(136, 148, 1, 0.793) ;
+    font-size: 30px;
+}
+
+
+
+
+
+

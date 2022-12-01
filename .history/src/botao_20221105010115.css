@@ -1,0 +1,17 @@
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-self: center;
+    background-color:red;
+    color: blue;
+    cursor:pointer;
+    
+}
+.main:hover {
+    background-color: blueviolet;
+    color:aliceblue;
+    border-radius: 20px;
+}
+
